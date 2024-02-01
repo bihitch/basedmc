@@ -62,11 +62,11 @@ world-settings:
     seed-trailruins: 83469867
     below-zero-generation-in-existing-chunks: true
     entity-activation-range:
-      animals: 24
-      monsters: 16
-      raiders: 16
-      misc: 8
-      water: 8
+      animals: 40
+      monsters: 32
+      raiders: 25
+      misc: 15
+      water: 16
       villagers: 16
       flying-monsters: 16
       wake-up-inactive:
